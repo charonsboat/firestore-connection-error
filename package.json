@@ -1,0 +1,14 @@
+{
+  "name": "firestore-connection-error",
+  "private": true,
+  "scripts": {
+    "dev": "vite --port 8888"
+  },
+  "dependencies": {
+    "firebase": "^9.0.0"
+  },
+  "devDependencies": {
+    "vite": "^2.5.10",
+    "vite-plugin-html": "^2.1.1"
+  }
+}
